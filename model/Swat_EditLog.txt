@@ -1,0 +1,207 @@
+Swat_Edit (Swat Parameters Editor 2012) Version 2.5.3.33454
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__ESCO.hru 0.1
+
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000010001.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000010002.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000010003.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000010004.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000010005.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000010006.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000020001.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000020002.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000020003.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000020004.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000020005.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000020006.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000020007.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000030001.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000030002.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000030003.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000030004.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000030005.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030006.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030007.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030008.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030009.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030010.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030011.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000030012.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000040001.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000040002.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000040003.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000040004.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000040005.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040006.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040007.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040008.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040009.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040010.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000040011.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.5'  Old: '0.200000' }  |  File: '000050001.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000050002.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000050003.hru'  |  Line: '10'
+Parameter: 'ESCO'  |  Value: { New: '0.100000'  Original: '0.85'  Old: '0.200000' }  |  File: '000050004.hru'  |  Line: '10'
+
+Modified Values:  40 in 40 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__EPCO.hru 0.5
+
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010001.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010002.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010003.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010004.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010005.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000010006.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020001.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020002.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020003.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020004.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020005.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020006.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000020007.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030001.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030002.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030003.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030004.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030005.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030006.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030007.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030008.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030009.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030010.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030011.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000030012.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040001.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040002.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040003.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040004.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040005.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040006.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040007.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040008.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040009.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040010.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000040011.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000050001.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000050002.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000050003.hru'  |  Line: '11'
+Parameter: 'EPCO'  |  Value: { New: '0.500000'  Original: '0.1'  Old: '0.200000' }  |  File: '000050004.hru'  |  Line: '11'
+
+Modified Values:  40 in 40 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__SFTMP.bsn 0.6000000000000014
+
+Parameter: 'SFTMP'  |  Value: { New: '0.600000'  Original: '1'  Old: '1.600000' }  |  File: 'basins.bsn'  |  Line: '4'
+
+Modified Values:  1 in 1 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__CN2.mgt 87.3
+
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '52.479'  Old: '69.500000' }  |  File: '000010001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '47.481'  Old: '69.500000' }  |  File: '000010002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '63.308'  Old: '69.500000' }  |  File: '000010003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '77.469'  Old: '69.500000' }  |  File: '000010004.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '71.638'  Old: '69.500000' }  |  File: '000010005.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '71.638'  Old: '69.500000' }  |  File: '000010006.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '60.809'  Old: '69.500000' }  |  File: '000020001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '58.31'  Old: '69.500000' }  |  File: '000020002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '58.31'  Old: '69.500000' }  |  File: '000020003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '52.479'  Old: '69.500000' }  |  File: '000020004.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '47.481'  Old: '69.500000' }  |  File: '000020005.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '68.306'  Old: '69.500000' }  |  File: '000020006.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '63.308'  Old: '69.500000' }  |  File: '000020007.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '60.809'  Old: '69.500000' }  |  File: '000030001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '51.646'  Old: '69.500000' }  |  File: '000030002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '51.646'  Old: '69.500000' }  |  File: '000030003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '52.479'  Old: '69.500000' }  |  File: '000030004.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '47.481'  Old: '69.500000' }  |  File: '000030005.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '68.306'  Old: '69.500000' }  |  File: '000030006.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '54.145'  Old: '69.500000' }  |  File: '000030007.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '77.469'  Old: '69.500000' }  |  File: '000030008.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '77.469'  Old: '69.500000' }  |  File: '000030009.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '60.809'  Old: '69.500000' }  |  File: '000030010.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '71.638'  Old: '69.500000' }  |  File: '000030011.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '71.638'  Old: '69.500000' }  |  File: '000030012.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '51.646'  Old: '69.500000' }  |  File: '000040001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '58.31'  Old: '69.500000' }  |  File: '000040002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '60.809'  Old: '69.500000' }  |  File: '000040003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '47.481'  Old: '69.500000' }  |  File: '000040004.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '36.652'  Old: '69.500000' }  |  File: '000040005.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '54.145'  Old: '69.500000' }  |  File: '000040006.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '63.308'  Old: '69.500000' }  |  File: '000040007.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '60.809'  Old: '69.500000' }  |  File: '000040008.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '71.638'  Old: '69.500000' }  |  File: '000040009.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '77.469'  Old: '69.500000' }  |  File: '000040010.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '77.469'  Old: '69.500000' }  |  File: '000040011.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '52.479'  Old: '69.500000' }  |  File: '000050001.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '68.306'  Old: '69.500000' }  |  File: '000050002.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '54.145'  Old: '69.500000' }  |  File: '000050003.mgt'  |  Line: '11'
+Parameter: 'CN2'  |  Value: { New: '87.300000'  Original: '63.308'  Old: '69.500000' }  |  File: '000050004.mgt'  |  Line: '11'
+
+Modified Values:  40 in 40 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+v__GW_DELAY.gw 16.1
+
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010004.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010005.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000010006.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020004.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020005.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020006.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000020007.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030004.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030005.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030006.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030007.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030008.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030009.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030010.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030011.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000030012.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040004.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040005.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040006.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040007.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040008.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040009.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040010.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000040011.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000050001.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000050002.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000050003.gw'  |  Line: '4'
+Parameter: 'GW_DELAY'  |  Value: { New: '16.100000'  Original: '35.929'  Old: '32.300000' }  |  File: '000050004.gw'  |  Line: '4'
+
+Modified Values:  40 in 40 files
+
+________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+5 parameters in 121 files modified successfully.
